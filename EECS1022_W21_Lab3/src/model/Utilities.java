@@ -86,7 +86,7 @@ public class Utilities {
 		}
 		int len = result.length();
 		if (len>2)
-		result = result.substring(0,result.length()-2)+">";
+			result = result.substring(0,result.length()-2)+">";
 		else
 			result = result+">";
 		return result;
