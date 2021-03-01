@@ -28,3 +28,5 @@ Lab 02 Submitted On 25th Jan, 2021. (PDF instructions and Lab Files Are in Lab02
 Lab 03 Submitted On 1st Feb, 2021. (PDF instructions and Lab Files Are in Lab03 Folder.)
 
 Lab 04 Submitted On 17th Feb, 2021. (PDF instructions and Lab Files Are in Lab04 Folder.)
+
+Lab 05 Submitted On 22nd Feb, 2021. (PDF instructions and Lab Files Are in Lab05 Folder.)
