@@ -7,6 +7,7 @@ import model.Utilities;
 public class GetAllPrefixesApp {
 	
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);
 		
 		/* Prompt the user for an array of numbers. */
