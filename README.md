@@ -15,6 +15,8 @@ Github Account:- https://github.com/tavadia-hoshner/
 Programming Tests:-
 
 Programming Test 1 Submitted on 11th Feb, 2021. (PDF instructions and Lab Files in Test1c Folder).
+
+Programming Test 2 Submitted on 04th Feb, 2021. (PDF instructions and Lab Files in Test2b Folder).
   <br />
   <br />
 Lab Submissions:-
@@ -30,3 +32,5 @@ Lab 03 Submitted On 1st Feb, 2021. (PDF instructions and Lab Files Are in Lab03 
 Lab 04 Submitted On 17th Feb, 2021. (PDF instructions and Lab Files Are in Lab04 Folder.)
 
 Lab 05 Submitted On 22nd Feb, 2021. (PDF instructions and Lab Files Are in Lab05 Folder.)
+
+Lab 06 Submitted On 02nd Mar, 2021. (PDF instructions and Lab Files Are in Lab06 Folder.)
