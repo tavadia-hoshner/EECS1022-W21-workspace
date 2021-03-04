@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="junit_tests (2)" project="EECS1022_W21_Lab3" tests="26" started="26" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestUtilities" time="0.001">
+    <testcase name="test_getNumbers_01a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_01b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_01c" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_01d" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_02a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_02b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_03a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_03b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_03c" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_04a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_04b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getNumbers_04c" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_01a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_01b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_01c" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_03a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_03b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_04a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_04b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_05a" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getInterleavings_05b" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getIntermediateStats_01" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getIntermediateStats_02" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getIntermediateStats_03" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getIntermediateStats_04" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="test_getIntermediateStats_05" classname="junit_tests.TestUtilities" time="0.0"/>
+  </testsuite>
+</testrun>

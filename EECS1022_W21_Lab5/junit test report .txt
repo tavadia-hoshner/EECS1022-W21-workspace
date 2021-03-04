@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="src" project="EECS1022_W21_Lab5" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestVendingMachine" time="0.012">
+    <testcase name="test_VendingMachine_01a" classname="junit_tests.TestVendingMachine" time="0.008"/>
+    <testcase name="test_VendingMachine_01c" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_02" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_03" classname="junit_tests.TestVendingMachine" time="0.001"/>
+    <testcase name="test_VendingMachine_04" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_01b1" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_01b2" classname="junit_tests.TestVendingMachine" time="0.001"/>
+    <testcase name="test_VendingMachine_01b3" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_01b4" classname="junit_tests.TestVendingMachine" time="0.0"/>
+    <testcase name="test_VendingMachine_01b5" classname="junit_tests.TestVendingMachine" time="0.002"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EECS1022_W21_Lab6" project="EECS1022_W21_Lab6" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestOnlineSchool" time="0.001">
+    <testcase name="test03a" classname="junit_tests.TestOnlineSchool" time="0.001"/>
+    <testcase name="test03b" classname="junit_tests.TestOnlineSchool" time="0.0"/>
+    <testcase name="test_01" classname="junit_tests.TestOnlineSchool" time="0.0"/>
+    <testcase name="test_04" classname="junit_tests.TestOnlineSchool" time="0.0"/>
+    <testcase name="test_02a" classname="junit_tests.TestOnlineSchool" time="0.0"/>
+    <testcase name="test_02b" classname="junit_tests.TestOnlineSchool" time="0.0"/>
+  </testsuite>
+</testrun>

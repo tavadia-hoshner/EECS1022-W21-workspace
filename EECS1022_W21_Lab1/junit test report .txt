@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="junit_tests (1)" project="EECS1022_W21_Lab1" tests="25" started="25" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestUtilities" time="0.002">
+    <testcase name="testGetGeometricSequence_01" classname="junit_tests.TestUtilities" time="0.001"/>
+    <testcase name="testGetGeometricSequence_02" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetGeometricSequence_03" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetGeometricSequence_04" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_01" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_02" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_03" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_04" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_05" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_06" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_07" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_08" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_09" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_10" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_11" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_12" classname="junit_tests.TestUtilities" time="0.001"/>
+    <testcase name="testGetTimeConversion_13" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_14" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_15" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_16" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTimeConversion_17" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetBMI_01" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetBMI_02" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetBMI_03" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetBMI_04" classname="junit_tests.TestUtilities" time="0.0"/>
+  </testsuite>
+</testrun>

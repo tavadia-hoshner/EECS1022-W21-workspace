@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="junit_tests" project="EECS1022_W21_Lab2" tests="21" started="21" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestUtilities" time="0.001">
+    <testcase name="testGetRPS_p1Win_p1Win" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_1_married" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_Tie_p1Lose" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_3_single" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_3_married" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_Tie_p1Win" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_1_single" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_Tie_Tie" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_5_married" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_4_single" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_p1Lose_Tie" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_2_married" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_p1Win_p1Lose" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_p1Lose_p1Lose" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_2_single" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_invalid_01" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_invalid_02" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_4_married" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_p1Lose_p1Win" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetTaxReport_case_5_single" classname="junit_tests.TestUtilities" time="0.0"/>
+    <testcase name="testGetRPS_p1Win_Tie" classname="junit_tests.TestUtilities" time="0.0"/>
+  </testsuite>
+</testrun>

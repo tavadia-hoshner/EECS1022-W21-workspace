@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Week_01" project="Week_01" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.TestCircle" time="0.001">
+    <testcase name="test1" classname="junit_tests.TestCircle" time="0.0"/>
+    <testcase name="test2" classname="junit_tests.TestCircle" time="0.001"/>
+  </testsuite>
+</testrun>
