@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bank App - Hoshner Tavadia (217828567)</string>
+    <string-array name="Services">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+        <item>Print Statement</item>
+    </string-array>
+</resources>
