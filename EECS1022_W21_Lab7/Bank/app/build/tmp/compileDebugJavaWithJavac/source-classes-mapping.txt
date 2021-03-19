@@ -1,0 +1,10 @@
+eecs1022/lab7/bank/model/Transaction.java
+ eecs1022.lab7.bank.model.Transaction
+eecs1022/lab7/bank/model/Bank.java
+ eecs1022.lab7.bank.model.Bank
+eecs1022/lab7/bank/BuildConfig.java
+ eecs1022.lab7.bank.BuildConfig
+eecs1022/lab7/bank/model/Client.java
+ eecs1022.lab7.bank.model.Client
+eecs1022/lab7/bank/MainActivity.java
+ eecs1022.lab7.bank.MainActivity
