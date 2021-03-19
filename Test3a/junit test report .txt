@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Tests" project="Test3a" tests="15" started="15" failures="0" errors="0" ignored="0">
+  <testsuite name="junit_tests.Tests" time="0.007">
+    <testcase name="test_01" classname="junit_tests.Tests" time="0.001"/>
+    <testcase name="test_02" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_03" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_04" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_05" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_06" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_07" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_08" classname="junit_tests.Tests" time="0.001"/>
+    <testcase name="test_09" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_10" classname="junit_tests.Tests" time="0.001"/>
+    <testcase name="test_11" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_12" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_13" classname="junit_tests.Tests" time="0.001"/>
+    <testcase name="test_14" classname="junit_tests.Tests" time="0.0"/>
+    <testcase name="test_15" classname="junit_tests.Tests" time="0.002"/>
+  </testsuite>
+</testrun>

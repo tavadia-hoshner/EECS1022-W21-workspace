@@ -1,0 +1,7 @@
+    <test duration="10" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_01" name="Tests.test_01" status="passed"/>
+    <test duration="10" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_02a" name="Tests.test_02a" status="passed"/>
+    <test duration="10" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_02b" name="Tests.test_02b" status="passed"/>
+    <test duration="0" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_03a" name="Tests.test_03a" status="passed"/>
+    <test duration="10" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_03b" name="Tests.test_03b" status="passed"/>
+    <test duration="10" locationUrl="java:test://eecs1022.lab7.bank.Tests/test_03c" name="Tests.test_03c" status="passed"/>
+
