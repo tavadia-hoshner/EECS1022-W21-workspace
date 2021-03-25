@@ -190,12 +190,12 @@
         android:layout_height="147dp"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:visibility="visible"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/confirm"
-        app:layout_constraintVertical_bias="0.186"
+        app:layout_constraintVertical_bias="0.232"
         tools:visibility="visible" />
 </androidx.constraintlayout.widget.ConstraintLayout>

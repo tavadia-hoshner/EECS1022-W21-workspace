@@ -54,28 +54,37 @@ public class MainActivity extends AppCompatActivity {
         setContentsOfTextView(R.id.output,a.getStatus());
     }
     public void onConfirmClicked(View view){
+        String s;
         String service = getItemSelected(R.id.service);
         if(service.equals("Deposit")){
             String to = getInputOfTextField(R.id.toacc);
             double amt = Double.valueOf(getInputOfTextField(R.id.amount));
             a.deposit(to,amt);
+            s=a.getStatus();
         }
         else if(service.equals("Withdraw")){
             String from = getInputOfTextField(R.id.fromacc);
             double amt = Double.valueOf(getInputOfTextField(R.id.amount));
             a.withdraw(from,amt);
+            s=a.getStatus();
         }
         else if(service.equals("Transfer")){
             String from = getInputOfTextField(R.id.fromacc);
             String to = getInputOfTextField(R.id.toacc);
             double amt = Double.valueOf(getInputOfTextField(R.id.amount));
             a.transfer(from,to,amt);
+            s=a.getStatus();
         }
         else {
             String from = getInputOfTextField(R.id.fromacc);
-            a.getStatement(from);
+            String st[] = a.getStatement(from);
+            s= "";
+            for(int i=0;i<st.length;i++){
+                s = s + st[i];
+                if(i!=st.length) s = s+ " ";
+            }
         }
-        setContentsOfTextView(R.id.output,a.getStatus());
+        setContentsOfTextView(R.id.output,s);
     }
 
     /* Hints on controller methods:
