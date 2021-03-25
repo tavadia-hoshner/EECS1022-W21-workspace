@@ -37,4 +37,4 @@ Lab 05 Submitted On 22nd Feb, 2021. (PDF instructions and Lab Files Are in Lab05
 
 Lab 06 Submitted On 02nd Mar, 2021. (PDF instructions and Lab Files Are in Lab06 Folder.)
 
-Lab 07 Submitted On --th Mar, 2021. (PDF instructions and Lab Files Are in Lab07 Folder.)
+Lab 07 Submitted On 24th Mar, 2021. (PDF instructions and Lab Files Are in Lab07 Folder.)
