@@ -1,0 +1,6 @@
+eecs1022/lab8/tictactoe/BuildConfig.java
+ eecs1022.lab8.tictactoe.BuildConfig
+eecs1022/lab8/tictactoe/model/Game.java
+ eecs1022.lab8.tictactoe.model.Game
+eecs1022/lab8/tictactoe/MainActivity.java
+ eecs1022.lab8.tictactoe.MainActivity
